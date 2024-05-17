@@ -2,7 +2,7 @@
 
 ## License.md
 
-Copyright (c) 2024 Coco Lucho
+Copyright (c) 2024 Coco Lucho and Pericos de los palotes
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
